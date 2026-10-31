@@ -423,11 +423,11 @@ Follow [section 7.4](#74-running-the-simulation). To use a private broker, chang
 
 ## 16. Team
 
-- **Alaa Mohammed Abdulrahman Qabil Arafa**
-- **Amaal Mostafa Gomaa Abdo**
-- **Menna Tallah Hassan Ahmed Mohammed Badr Eldien**
-- **Mazen Essam Eldin Moustafa Ibrahim Ismail**
-- **Mohamed Samir Khamis Mustafa**
+- **Alaa Mohammed Arafa**
+- **Amaal Abdo**
+- **Menna Badr**
+- **Mazen Ismail**
+- **Mohamed Samir**
 
 ---
 
