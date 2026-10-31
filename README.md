@@ -423,7 +423,7 @@ Follow [section 7.4](#74-running-the-simulation). To use a private broker, chang
 
 ## 16. Team
 
-- **Alaa Mohammed Arafa**
+- **Alaa Arafa**
 - **Amaal Abdo**
 - **Menna Badr**
 - **Mazen Ismail**
